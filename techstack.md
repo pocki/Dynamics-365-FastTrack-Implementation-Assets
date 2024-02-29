@@ -3,24 +3,24 @@
 ## Tech Stack
 pocki/Dynamics-365-FastTrack-Implementation-Assets is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [ASP.NET](https://www.asp.net/) – Languages
 - [C#](http://csharp.net) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
+- [Python](https://www.python.org) – Languages
 - [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- [ESLint](http://eslint.org/) – Code Review
-- [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
-- [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) – Message Queue
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- [ASP.NET](https://www.asp.net/) – Languages
+- [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
+- [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) – Message Queue
+- [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [ESLint](http://eslint.org/) – Code Review
 - [Prettier](https://prettier.io/) – Code Review
 - [TestCafe](https://devexpress.github.io/testcafe/) – Testing Frameworks
-- [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -30,24 +30,24 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 pocki/Dynamics-365-FastTrack-Implementation-Assets is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2099/azureStorage.png' alt='Azure Storage'/> [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/3980/Azure-Service-Bus.png' alt='Azure Service Bus'/> [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) – Message Queue
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3980/Azure-Service-Bus.png' alt='Azure Service Bus'/> [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) – Message Queue
+- <img width='25' height='25' src='https://img.stackshare.io/service/2099/azureStorage.png' alt='Azure Storage'/> [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/7532/W2FwS-Ry_400x400.jpg' alt='TestCafe'/> [TestCafe](https://devexpress.github.io/testcafe/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -58,7 +58,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [pocki/Dynamics-365-FastTrack-Implementation-Assets](https://github.com/pocki/Dynamics-365-FastTrack-Implementation-Assets)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|111<br/>Tools used|01/05/24 <br/>Report generated|
+|111<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -303,7 +303,7 @@ Full tech stack [here](/techstack.md)
 |[System.Composition.TypedParts](https://www.nuget.org/System.Composition.TypedParts)|v1.2.0|03/16/22|AliAAdamu |MIT|N/A|
 |[System.Configuration.ConfigurationManager](https://www.nuget.org/System.Configuration.ConfigurationManager)|v6.0.1|02/07/23|pocki |MIT|N/A|
 |[System.Console](https://www.nuget.org/System.Console)|v4.3.0|03/16/22|AliAAdamu |N/A|N/A|
-|[System.Data.SqlClient](https://www.nuget.org/System.Data.SqlClient)|v4.8.5|01/31/23|dependabot[bot] |MIT|N/A|
+|[System.Data.SqlClient](https://www.nuget.org/System.Data.SqlClient)|v4.8.5|01/31/23|dependabot[bot] |MIT|[CVE-2024-0056](https://github.com/advisories/GHSA-98g6-xh36-x2p7) (High)|
 |[System.Diagnostics.Debug](https://www.nuget.org/System.Diagnostics.Debug)|v4.3.0|03/16/22|AliAAdamu |N/A|N/A|
 |[System.Diagnostics.DiagnosticSource](https://www.nuget.org/System.Diagnostics.DiagnosticSource)|v4.6.0|03/16/22|AliAAdamu |MIT|N/A|
 |[System.Diagnostics.Tools](https://www.nuget.org/System.Diagnostics.Tools)|v4.3.0|03/16/22|AliAAdamu |N/A|N/A|
