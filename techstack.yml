@@ -2,7 +2,7 @@ repo_name: pocki/Dynamics-365-FastTrack-Implementation-Assets
 report_id: ab565ec54426152807aa967bb765dfb2
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:36:25+00:00'
+timestamp: '2024-02-29T18:52:38+00:00'
 requested_by: pocki
 provider: github
 branch: master
@@ -135,7 +135,7 @@ tools:
   last_updated_by: JJ
   last_updated_on: 2020-08-23 16:32:13.000000000 Z
 - name: Azure Service Bus
-  description: 'Reliable cloud messaging as a service (MaaS) '
+  description: Reliable cloud messaging as a service (MaaS)
   website_url: https://azure.microsoft.com/en-us/services/service-bus/
   open_source: false
   hosted_saas: true
@@ -205,7 +205,7 @@ tools:
   last_updated_by: AliAAdamu
   last_updated_on: 2022-03-16 16:45:26.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
@@ -759,6 +759,14 @@ tools:
   detection_source: Analytics/Common/Common.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-01-31 14:35:04.000000000 Z
+  vulnerabilities:
+  - name: Microsoft.Data.SqlClient and System.Data.SqlClient vulnerable to SQL Data
+      Provider Security Feature Bypass
+    cve_id: CVE-2024-0056
+    cve_url: https://github.com/advisories/GHSA-98g6-xh36-x2p7
+    detected_date: Jan 17
+    severity: high
+    first_patched: 4.8.6
 - name: System.Diagnostics.Debug
   description: Provides classes and attributes that allows basic interaction with
     a debugger
